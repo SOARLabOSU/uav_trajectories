@@ -1,6 +1,6 @@
 import numpy as np
 
-numRobots = 5
+numRobots = 3
 
 r = 0.3
 height = 0.7
